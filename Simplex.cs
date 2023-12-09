@@ -6,7 +6,7 @@ using System.Threading.Tasks;
  
 namespace Simplex
 {
-    public class SimplexA
+    public class Simplex
     {
         //source - симплекс таблица без базисных переменных
         double[,] table; //симплекс таблица
@@ -15,7 +15,7 @@ namespace Simplex
  
         List<int> basis; //список базисных переменных
  
-        public SimplexA(double[,] source)
+        public Simplex(double[,] source)
         {
             m =source.GetLength(0);
             n = source.GetLength(1);

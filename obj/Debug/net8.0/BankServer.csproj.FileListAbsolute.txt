@@ -23,3 +23,4 @@ G:\BankServer\obj\Debug\net8.0\refint\BankServer.dll
 G:\BankServer\obj\Debug\net8.0\BankServer.pdb
 G:\BankServer\obj\Debug\net8.0\BankServer.genruntimeconfig.cache
 G:\BankServer\obj\Debug\net8.0\ref\BankServer.dll
+G:\BankServer\obj\Debug\net8.0\BankServer.sourcelink.json
